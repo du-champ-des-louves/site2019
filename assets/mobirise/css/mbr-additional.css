@@ -2011,7 +2011,7 @@ body {
   min-height: 1px;
 }
 .cid-rpeoZbvSlG .media-container-row .img-item .img-caption {
-  background: #ffffff;
+  background: #6c717c;
   z-index: 2;
   padding: 1rem 1rem;
   word-break: break-word;
@@ -2032,6 +2032,9 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rpeoZbvSlG P {
+  color: #ffffff;
 }
 .cid-rmYqzkIwdq .navbar {
   padding: .5rem 0;
@@ -5395,6 +5398,9 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rperdm88FI P {
+  color: #ffffff;
 }
 .cid-rpeq7CTDxC {
   padding-top: 120px;
