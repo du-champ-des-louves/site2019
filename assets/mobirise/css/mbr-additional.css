@@ -1475,7 +1475,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYsYTwkBu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1555,7 +1555,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYsYTwkBu .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYsYTwkBu .collapsed button.navbar-toggler {
@@ -2205,7 +2205,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYqzkIwdq button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2285,7 +2285,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYqzkIwdq .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYqzkIwdq .collapsed button.navbar-toggler {
@@ -2696,7 +2696,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYqMQ2duW button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2776,7 +2776,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYqMQ2duW .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYqMQ2duW .collapsed button.navbar-toggler {
@@ -3330,7 +3330,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYsYTwkBu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3410,7 +3410,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYsYTwkBu .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYsYTwkBu .collapsed button.navbar-toggler {
@@ -3662,6 +3662,9 @@ body {
 }
 .cid-rpe3thi02o H4 {
   text-align: center;
+}
+.cid-rpe3thi02o P {
+  color: #ffffff;
 }
 .cid-rpenvreBXM {
   padding-top: 0px;
@@ -3966,7 +3969,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYracuamK button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4046,7 +4049,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYracuamK .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYracuamK .collapsed button.navbar-toggler {
@@ -4549,7 +4552,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYqMQ2duW button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4629,7 +4632,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYqMQ2duW .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYqMQ2duW .collapsed button.navbar-toggler {
@@ -4788,8 +4791,8 @@ body {
   color: #ff3900 !important;
 }
 .cid-rooLB2CJj4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #6c717c;
 }
 .cid-rooLB2CJj4 .card-box {
@@ -5091,7 +5094,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYqMQ2duW button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5171,7 +5174,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYqMQ2duW .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYqMQ2duW .collapsed button.navbar-toggler {
@@ -5655,7 +5658,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0a2637;
+  background-color: #ff3900;
 }
 .cid-rmYrk5La6K button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5735,7 +5738,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmYrk5La6K .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rmYrk5La6K .collapsed button.navbar-toggler {
