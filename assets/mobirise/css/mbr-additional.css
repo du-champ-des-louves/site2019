@@ -1810,7 +1810,7 @@ body {
   color: #767676;
 }
 .cid-rmV71LY407 {
-  background-image: url("../../../assets/images/ricavondescherau21months1-1-600x376.jpg");
+  background-image: url("../../../assets/images/ricavondescherau21months1-3-600x376.jpg");
 }
 .cid-rmV71LY407 H1 {
   text-align: center;
@@ -4287,10 +4287,111 @@ body {
 }
 .cid-rou58uSZJr .card-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-rou58uSZJr .card-title DIV {
   color: #ffffff;
   text-align: center;
+}
+.cid-rq5JARGSQn {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #6c717c;
+}
+.cid-rq5JARGSQn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rq5JARGSQn .mbr-text {
+  color: #767676;
+}
+.cid-rq5JARGSQn .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rq5JARGSQn .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rq5JARGSQn .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-rq5JARGSQn .card-wrapper .card-img .mbr-overlay {
+  background-color: #efefef;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-rq5JARGSQn .card-wrapper .card-img .mbr-section-btn {
+  display: flex;
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+.cid-rq5JARGSQn .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-rq5JARGSQn .card-wrapper .card-box {
+  background-color: #6c717c;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-rq5JARGSQn .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-rq5JARGSQn .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-rq5JARGSQn .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rq5JARGSQn .popup-btn .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-rq5JARGSQn .popup-btn .mbr-section-btn {
+  height: 100%;
+  display: -webkit-flex !important;
+  opacity: 0;
+}
+.cid-rq5JARGSQn .popup-btn:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-rq5JARGSQn .popup-btn:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-rq5JARGSQn .card-title DIV {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rq5JARGSQn .card-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rq5JARGSQn .card-title B {
+  color: #ffffff;
 }
 .cid-rpemea6Czl {
   padding-top: 90px;
