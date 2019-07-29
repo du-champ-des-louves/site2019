@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Du Champ des Louves",
-    "currentPage": "index.html",
+    "currentPage": "Dog of moment.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,7 +67,7 @@
       }
     ],
     "uniqCompNum": 132,
-    "versionPublish": "4.10.6",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
