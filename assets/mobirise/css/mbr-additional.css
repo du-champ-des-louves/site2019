@@ -2013,6 +2013,30 @@ body {
 .cid-rqtfSA2uau .mbr-text {
   color: #ff0a00;
 }
+.cid-rAafHiy0aa {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #6c717c;
+}
+.cid-rAafHiy0aa .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rAafHiy0aa .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-rAafHiy0aa .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rAafHiy0aa .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rwe6klj7Q8 {
   padding-top: 90px;
   padding-bottom: 90px;
