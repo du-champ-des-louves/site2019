@@ -2014,29 +2014,29 @@ body {
 .cid-rqtfSA2uau .mbr-text {
   color: #ff0a00;
 }
-.cid-rJNS75wUmi {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rQS07J9imH {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #6c717c;
 }
-.cid-rJNS75wUmi .line {
-  background-color: #6c717c;
-  color: #6c717c;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-rQS07J9imH h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-rJNS75wUmi .section-text {
-  padding: 2rem 0;
+.cid-rQS07J9imH p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rQS07J9imH .card-box {
+  padding-top: 2rem;
+}
+.cid-rQS07J9imH .card-wrapper {
+  height: 100%;
+}
+.cid-rQS07J9imH .card-title {
+  text-align: center;
   color: #ffffff;
-}
-.cid-rJNS75wUmi .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rJNS75wUmi .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-rILGH6twrR {
   padding-top: 90px;
