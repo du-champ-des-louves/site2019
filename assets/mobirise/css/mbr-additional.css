@@ -3287,7 +3287,7 @@ body {
   text-align: right;
 }
 .cid-rFlD9i2St2 {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 15px;
   background-color: #6c717c;
 }
@@ -3302,59 +3302,49 @@ body {
 .cid-rFlD9i2St2 .mbr-text {
   color: #ff0a00;
 }
-.cid-rFnKv4ot5k {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-rRILjG1rkB {
   background: #6c717c;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #6c717c, #6c717c);
 }
-.cid-rFnKv4ot5k .images-container.container-fluid {
-  padding: 0;
+.cid-rRILjG1rkB .image-block {
+  margin: auto;
 }
-.cid-rFnKv4ot5k .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-rFnKv4ot5k .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
+.cid-rRILjG1rkB figcaption {
   position: relative;
+}
+.cid-rRILjG1rkB figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
 }
-.cid-rFnKv4ot5k .media-container-row .img-item img {
-  width: 100%;
-  min-height: 1px;
-}
-.cid-rFnKv4ot5k .media-container-row .img-item .img-caption {
-  background: #6c717c;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-rFnKv4ot5k .media-container-row .img-item .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rFnKv4ot5k .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-rFnKv4ot5k .img-item {
+@media (max-width: 768px) {
+  .cid-rRILjG1rkB .image-block {
     width: 100% !important;
   }
-  .cid-rFnKv4ot5k .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
-  }
 }
-.cid-rFnKv4ot5k P {
-  color: #ffffff;
-  text-align: center;
+.cid-rRIKjPuBY8 {
+  background: #6c717c;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #6c717c, #6c717c);
+}
+.cid-rRIKjPuBY8 .image-block {
+  margin: auto;
+}
+.cid-rRIKjPuBY8 figcaption {
+  position: relative;
+}
+.cid-rRIKjPuBY8 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rRIKjPuBY8 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rmYsYTwkBu .navbar {
   padding: .5rem 0;
