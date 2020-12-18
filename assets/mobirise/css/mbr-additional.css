@@ -2014,30 +2014,6 @@ body {
 .cid-rqtfSA2uau .mbr-text {
   color: #ff0a00;
 }
-.cid-sbex7gFGE1 {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #6c717c;
-}
-.cid-sbex7gFGE1 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-sbex7gFGE1 p {
-  color: #767676;
-  text-align: left;
-}
-.cid-sbex7gFGE1 .card-box {
-  padding-top: 2rem;
-}
-.cid-sbex7gFGE1 .card-wrapper {
-  height: 100%;
-}
-.cid-sbex7gFGE1 .card-title {
-  text-align: center;
-  color: #ffffff;
-}
 .cid-rwe6klj7Q8 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -2061,6 +2037,30 @@ body {
 .cid-rwe6klj7Q8 .card-title {
   text-align: center;
   color: #efefef;
+}
+.cid-sbex7gFGE1 {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #6c717c;
+}
+.cid-sbex7gFGE1 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sbex7gFGE1 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sbex7gFGE1 .card-box {
+  padding-top: 2rem;
+}
+.cid-sbex7gFGE1 .card-wrapper {
+  height: 100%;
+}
+.cid-sbex7gFGE1 .card-title {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-rmYqzkIwdq .navbar {
   padding: .5rem 0;
@@ -3144,7 +3144,7 @@ body {
 }
 .cid-rXX52IJTkQ {
   padding-top: 135px;
-  padding-bottom: 30px;
+  padding-bottom: 75px;
   background-color: #6c717c;
 }
 .cid-rXX52IJTkQ h4 {
