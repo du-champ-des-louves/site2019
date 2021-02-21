@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Du Champ des Louves-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone-clone",
-    "currentPage": "links.html",
+    "currentPage": "dogs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -23,7 +23,7 @@
         "display7Size": "1",
         "display4Font": "Oswald",
         "display4Size": "0.8",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
