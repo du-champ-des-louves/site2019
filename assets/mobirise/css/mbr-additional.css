@@ -2014,6 +2014,19 @@ body {
 .cid-rqtfSA2uau .mbr-text {
   color: #ff0a00;
 }
+.cid-sykfZJl5Hd {
+  background: #6c717c;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-sykfZJl5Hd .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sykfZJl5Hd .video-block {
+    width: 100% !important;
+  }
+}
 .cid-srnditUDAI {
   padding-top: 30px;
   padding-bottom: 60px;
